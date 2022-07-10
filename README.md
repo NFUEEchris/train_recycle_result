@@ -9,7 +9,7 @@
 |  1        | Glass   | |
 |  2        | China   | |
 |  3        | Plastic | |
-|  4        | Iron    | 不能判斷因為樣本數太少|
+
 
 ## 訓練結果 
 ![markdown](https://upload.cc/i1/2022/07/03/LxrcpS.png
