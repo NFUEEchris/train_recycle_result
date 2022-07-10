@@ -26,4 +26,4 @@
 
 
 ## 檢測結果 
-![markdown]("mix15.jpg")
+![markdown](mix15.jpg)
